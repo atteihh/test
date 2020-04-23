@@ -15,3 +15,20 @@ Depiction: https://shiarahmed.github.io/test/depictions/?p=test
 Installed-Size: 84
 Name: Snapchat
 SileoDepiction: https://shiarahmed.github.io/test/sileodepictions/snapchat.json
+
+Package: com.arab-cydia.veno
+Version: 1.0
+Section: Themes_
+Maintainer: Arab-Cydia <repo@Arab-Cydia.com>
+Architecture: iphoneos-arm
+Filename: ./debs/4083.deb
+Size: 2393312
+Description: THEME
+Name: Veno
+Author: @MlRhv
+Sponsor: Arab-Cydia <https://www.Arab-Cydia.com/repo/>
+Depiction: https://arab-cydia.com/repo/view/4083
+SileoDepiction: https://arab-cydia.com/repo/sileoview/4083
+MD5sum: d156d7d987606da6b3e075b3853d861f
+SHA1: b782002c0bf55fb29dd0cc99176430731d02d28f
+SHA256: 366e7b7d11d70da4887bebc126477ed2fe47bdecc8c3b76c002166076d5e6740
